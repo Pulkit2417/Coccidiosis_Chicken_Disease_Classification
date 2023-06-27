@@ -12,3 +12,8 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+
+
+Save the URI: 556849979847.dkr.ecr.eu-north-1.amazonaws.com/chicken_app
